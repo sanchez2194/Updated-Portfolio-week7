@@ -1,0 +1,46 @@
+body {
+    background-color: black;
+}
+
+.jumbotron-fluid {
+    background-color:gray;
+}
+
+.display-4 {
+    font-family: 'Abril Fatface';
+    color: whitesmoke;
+}
+
+.info {
+    background-color: gray;
+}
+
+p {
+    color: white;
+}
+
+.profile {
+    height: 400px;
+    float: right;
+}
+
+.img1 {
+    height: 100px;
+}
+
+.footer {
+    background-color: gray;
+    color: white;
+    text-align: center;
+}
+
+.contact-content {
+    text-align: center;
+}
+
+
+
+.img2 {
+    position: relative;
+    left: 575px;
+}
